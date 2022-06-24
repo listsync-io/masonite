@@ -1,0 +1,22 @@
+Metadata-Version: 2.1
+Name: masonite
+Version: 1.0.0
+Summary: The Masonite Framework
+Home-page: https://github.com/masoniteframework/masonite
+Author: Joe Mancuso
+Author-email: joe@masoniteproject.com
+License: MIT
+Keywords: Masonite,MasoniteFramework,Python,ORM
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: Topic :: Software Development :: Build Tools
+Classifier: Environment :: Web Environment
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Provides-Extra: test

@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/masonite.egg-info/PKG-INFO
+src/masonite.egg-info/SOURCES.txt
+src/masonite.egg-info/dependency_links.txt
+src/masonite.egg-info/entry_points.txt
+src/masonite.egg-info/requires.txt
+src/masonite.egg-info/top_level.txt
